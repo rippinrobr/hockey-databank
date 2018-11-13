@@ -1,6 +1,8 @@
 Type,Code,Fullname
 Playoffs,NHAF,Lost NHA finals
 Playoffs,NHLF,Lost NHL finals
+Playoffs,C1,Lost NHL conference first round
+Playoffs,C2,Lost NHL conference second round
 Playoffs,CQF,Lost NHL conference quarter-finals
 Playoffs,PRE,Lost NHL preliminary round
 Playoffs,F,Lost Stanley Cup finals
@@ -54,6 +56,8 @@ Round,SCSF,Stanley Cup Semi-Finals
 Round,Pre,Preliminary
 Round,DSF,Division Semi-Finals
 Round,DF,Division Finals
+Round,C1,Conference First Round
+Round,C2,Conference Second Round
 Round,CQF,Conference Quarter-Finals
 Round,CSF,Conference Semi-Finals
 Round,CF,Conference Finals

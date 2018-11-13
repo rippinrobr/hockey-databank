@@ -1,10 +1,3 @@
-The CSV files in this repository are from the hockey-databank group on Yahoo Groups. I've added 
-the `sqlite` directory that contains a file that contains the data backup and schema for the 
-SQLite version of the database.  Sqlite is currently the only supported database.  In the futre 
-there will be backups for Postgres, MongoDB and MySQL.
-
----
-
 Hockey Database version 13.0, July 10, 2018
 
 This database is maintained through the hockey-databank Yahoo group,
