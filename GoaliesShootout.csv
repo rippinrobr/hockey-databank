@@ -5,6 +5,7 @@ allenja01,2012,1,STL,1,0,2,0
 allenja01,2014,1,STL,3,2,15,4
 allenja01,2015,1,STL,4,0,29,6
 allenja01,2016,1,STL,1,2,15,4
+allenja01,2017,1,STL,1,0,2,0
 andercr01,2005,1,CHI,0,3,7,5
 andercr01,2006,1,FLO,1,0,2,0
 andercr01,2008,1,FLO,0,4,11,7
@@ -17,10 +18,12 @@ andercr01,2013,1,OTT,3,3,15,5
 andercr01,2014,1,OTT,1,3,20,6
 andercr01,2015,1,OTT,6,3,25,9
 andercr01,2016,1,OTT,3,3,24,5
+andercr01,2017,1,OTT,2,4,23,8
 anderfr01,2013,1,AND,1,0,4,0
 anderfr01,2014,1,AND,6,4,32,11
 anderfr01,2015,1,AND,1,3,12,6
 anderfr01,2016,1,TOR,1,7,23,11
+anderfr01,2017,1,TOR,6,2,33,7
 aubinje01,2005,1,TOR,0,2,5,2
 aubinje01,2006,1,TOR,1,1,11,3
 aubinje01,2007,1,LAK,1,1,4,2
@@ -55,8 +58,10 @@ bernijo01,2013,1,TOR,5,4,25,9
 bernijo01,2014,1,TOR,3,4,26,11
 bernijo01,2015,1,TOR,1,1,8,3
 bernijo01,2016,1,AND,1,3,33,11
+bernijo01,2017,1,COL,0,1,3,2
 berrare01,2013,1,CAL,4,0,21,5
 berrare01,2014,1,COL,2,0,4,1
+berrare01,2017,1,AND,1,0,9,3
 berubje02,2015,1,NYI,0,1,3,1
 bironma01,2005,1,BUF,2,3,12,5
 bironma01,2006,2,PHI,0,1,3,2
@@ -76,6 +81,7 @@ bishobe01,2014,1,TBL,3,3,17,6
 bishobe01,2015,1,TBL,1,3,11,5
 bishobe01,2016,1,TBL,3,1,17,6
 bishobe01,2016,2,LAK,0,1,11,2
+bishobe01,2017,1,DAL,2,1,7,1
 bobrose01,2010,1,PHI,1,4,17,9
 bobrose01,2011,1,PHI,1,2,8,4
 bobrose01,2012,1,CBS,5,4,26,7
@@ -83,6 +89,7 @@ bobrose01,2013,1,CBS,4,1,15,4
 bobrose01,2014,1,CBS,7,1,36,4
 bobrose01,2015,1,CBS,1,1,9,2
 bobrose01,2016,1,CBS,0,2,5,2
+bobrose01,2017,1,CBS,4,4,35,10
 bouchbr01,2005,1,PHO,1,0,3,0
 bouchbr01,2006,1,CHI,0,2,4,4
 bouchbr01,2008,1,SJS,1,1,6,2
@@ -98,6 +105,7 @@ brodema01,2011,1,NJD,7,2,26,7
 brodema01,2012,1,NJD,0,4,11,6
 brodema01,2013,1,NJD,0,5,16,8
 brossla01,2015,1,EDM,0,1,2,2
+brossla01,2017,1,EDM,0,1,3,1
 brustba01,2006,1,LAK,1,1,5,1
 bryzgil01,2006,1,AND,0,4,13,6
 bryzgil01,2007,1,AND,0,1,3,1
@@ -120,8 +128,10 @@ budajpe01,2011,1,MTL,0,4,15,7
 budajpe01,2012,1,MTL,1,1,9,2
 budajpe01,2013,1,MTL,4,1,17,4
 budajpe01,2016,1,LAK,1,3,13,7
+budajpe01,2017,1,TBL,0,1,3,1
 burkese01,2005,1,TBL,2,3,11,5
 burkese01,2006,1,LAK,2,2,22,11
+campbja01,2017,1,LAK,0,1,5,2
 caronse01,2005,1,PIT,0,3,10,6
 cassifr01,2006,1,WAS,0,1,3,2
 clemmsc01,2005,1,NJD,1,1,7,3
@@ -138,6 +148,7 @@ cloutda01,2005,1,VAN,0,1,2,2
 cloutda01,2007,1,LAK,1,0,4,1
 condomi01,2015,1,MTL,4,3,26,8
 condomi01,2016,2,OTT,3,1,13,3
+condomi01,2017,1,OTT,0,3,14,7
 conklty01,2005,1,EDM,0,1,2,2
 conklty01,2006,1,CBS,1,1,5,2
 conklty01,2007,1,PIT,2,3,15,7
@@ -159,6 +170,8 @@ danisya01,2009,1,NJD,0,1,3,3
 darlisc01,2014,1,CHI,3,0,7,0
 darlisc01,2015,1,CHI,0,1,2,1
 darlisc01,2016,1,CHI,1,0,3,1
+darlisc01,2017,1,CAR,2,3,12,5
+dellaa01,2017,1,SJS,1,0,3,0
 denisma01,2005,1,CBS,3,1,18,4
 denisma01,2006,1,TBL,4,1,20,2
 denisma01,2007,1,TBL,1,0,3,0
@@ -171,6 +184,7 @@ dipieri01,2011,1,NYI,0,1,3,1
 divisre01,2005,1,STL,0,1,3,2
 dominlo01,2015,1,ARI,1,1,6,2
 dominlo01,2016,1,ARI,3,0,15,1
+dominlo01,2017,2,TBL,1,0,4,1
 drouije01,2008,1,EDM,1,0,3,0
 drouije01,2009,1,EDM,4,3,37,11
 dubiewa01,2005,1,NYI,1,0,3,0
@@ -187,6 +201,7 @@ dubnyde01,2014,1,ARI,2,2,13,4
 dubnyde01,2014,2,MIN,2,1,16,5
 dubnyde01,2015,1,MIN,3,2,14,4
 dubnyde01,2016,1,MIN,3,2,20,7
+dubnyde01,2017,1,MIN,1,2,17,5
 dunhami01,2005,1,ATL,0,2,4,3
 dunhami01,2006,1,NYI,1,1,8,3
 elliobr01,2008,1,OTT,2,2,16,6
@@ -199,6 +214,7 @@ elliobr01,2013,1,STL,4,1,20,6
 elliobr01,2014,1,STL,6,2,26,7
 elliobr01,2015,1,STL,1,4,20,7
 elliobr01,2016,1,CAL,2,1,12,2
+elliobr01,2017,1,PHI,0,2,9,5
 ellisda01,2007,1,NAS,2,1,9,4
 ellisda01,2008,1,NAS,1,3,11,6
 ellisda01,2009,1,NAS,2,1,10,2
@@ -246,7 +262,9 @@ fleurma01,2013,1,PIT,6,2,28,5
 fleurma01,2014,1,PIT,3,5,32,12
 fleurma01,2015,1,PIT,3,2,17,4
 fleurma01,2016,1,PIT,2,3,15,7
+fleurma01,2017,1,VEG,1,2,13,4
 forsban01,2015,1,CBS,1,0,3,1
+forsban01,2017,1,CHI,1,2,13,6
 garnemi01,2005,1,ATL,0,2,8,4
 garonma01,2005,1,LAK,4,1,16,3
 garonma01,2006,1,LAK,1,3,18,7
@@ -260,9 +278,11 @@ gerbema01,2005,1,CAR,7,2,33,10
 gerbema01,2006,1,OTT,1,2,10,3
 gerbema01,2007,1,OTT,2,2,16,5
 gerbema01,2010,1,EDM,1,0,4,1
+gibsoch01,2017,1,NYI,0,1,3,2
 gibsojo02,2014,1,AND,1,0,3,1
 gibsojo02,2015,1,AND,2,1,10,3
 gibsojo02,2016,1,AND,2,0,9,2
+gibsojo02,2017,1,AND,1,3,19,7
 gigueje01,2005,1,ANA,3,7,31,12
 gigueje01,2006,1,AND,4,6,39,13
 gigueje01,2007,1,AND,6,5,30,10
@@ -281,9 +301,11 @@ greisth01,2013,1,PHO,2,2,14,2
 greisth01,2014,1,PIT,1,1,6,2
 greisth01,2015,1,NYI,2,1,9,1
 greisth01,2016,1,NYI,1,2,19,8
+greisth01,2017,1,NYI,0,1,2,2
 grubaph01,2013,1,WAS,2,4,29,10
 grubaph01,2014,1,WAS,1,0,3,1
 grubaph01,2016,1,WAS,1,0,2,0
+grubaph01,2017,1,WAS,0,1,2,2
 gustajo01,2009,1,TOR,2,1,7,3
 gustajo01,2010,1,TOR,2,1,10,4
 gustajo01,2011,1,TOR,1,3,11,4
@@ -302,6 +324,7 @@ halakja01,2013,2,WAS,0,3,8,5
 halakja01,2014,1,NYI,5,3,30,9
 halakja01,2015,1,NYI,3,3,21,9
 halakja01,2016,1,NYI,1,2,8,3
+halakja01,2017,1,NYI,3,1,14,2
 hammoan01,2014,1,OTT,2,2,19,7
 hammoan01,2015,1,OTT,0,3,19,5
 hardijo01,2005,1,MIN,1,0,3,1
@@ -324,6 +347,8 @@ hedbejo01,2012,1,NJD,2,3,16,6
 heeteca01,2013,1,PHI,0,1,2,1
 helleco01,2015,1,WPG,1,1,7,2
 helleco01,2016,1,WPG,3,1,16,4
+helleco01,2017,1,WPG,4,2,22,6
+hillad01,2017,1,ARI,1,0,5,1
 hillejo01,2007,1,AND,2,1,12,5
 hillejo01,2008,1,AND,5,1,31,5
 hillejo01,2009,1,AND,3,4,27,10
@@ -342,6 +367,7 @@ holtbbr01,2013,1,WAS,6,2,28,9
 holtbbr01,2014,1,WAS,3,3,39,11
 holtbbr01,2015,1,WAS,4,2,17,6
 holtbbr01,2016,1,WAS,1,5,22,11
+holtbbr01,2017,1,WAS,3,0,9,1
 howarji01,2009,1,DET,5,7,54,17
 howarji01,2010,1,DET,3,2,17,2
 howarji01,2011,1,DET,7,2,27,5
@@ -350,6 +376,7 @@ howarji01,2013,1,DET,3,5,26,8
 howarji01,2014,1,DET,2,8,32,17
 howarji01,2015,1,DET,0,2,9,4
 howarji01,2016,1,DET,2,0,6,1
+howarji01,2017,1,DET,4,1,21,2
 huetcr01,2005,1,MTL,1,2,9,3
 huetcr01,2006,1,MTL,2,3,14,8
 huetcr01,2007,1,MTL,2,3,13,5
@@ -363,8 +390,10 @@ huttoca01,2013,1,NAS,2,2,19,5
 huttoca01,2014,1,NAS,2,2,15,7
 huttoca01,2015,1,NAS,1,1,5,2
 huttoca01,2016,1,STL,1,0,4,1
+huttoca01,2017,1,STL,2,0,4,0
 irvinle01,2011,1,CAL,0,1,4,2
 irvinle01,2012,1,CAL,0,1,2,2
+jarrytr01,2017,1,PIT,0,1,3,2
 johnsbr02,2005,1,WAS,3,1,13,2
 johnsbr02,2006,1,WAS,0,5,20,7
 johnsbr02,2008,1,WAS,0,1,2,1
@@ -381,6 +410,7 @@ jonesma02,2013,1,LAK,2,0,12,0
 jonesma02,2014,1,LAK,0,1,6,1
 jonesma02,2015,1,SJS,3,1,11,4
 jonesma02,2016,1,SJS,2,1,9,2
+jonesma02,2017,1,SJS,4,3,36,12
 josepcu01,2005,1,PHO,3,2,19,6
 josepcu01,2006,1,PHO,2,1,13,2
 josepcu01,2008,1,TOR,2,1,11,3
@@ -397,9 +427,11 @@ khudoan01,2012,1,BOS,0,1,3,1
 khudoan01,2013,1,CAR,1,0,3,0
 khudoan01,2014,1,CAR,3,2,13,2
 khudoan01,2016,1,BOS,1,0,3,1
+khudoan01,2017,1,BOS,1,2,18,4
 kinkake01,2014,1,NJD,2,2,12,4
 kinkake01,2015,1,NJD,0,1,3,1
 kinkake01,2016,1,NJD,1,1,5,1
+kinkake01,2017,1,NJD,3,2,17,6
 kiprumi01,2005,1,CAL,1,7,23,12
 kiprumi01,2006,1,CAL,3,4,16,7
 kiprumi01,2007,1,CAL,3,3,17,6
@@ -414,9 +446,11 @@ kolziol01,2005,1,WAS,4,5,44,15
 kolziol01,2006,1,WAS,1,5,17,9
 kolziol01,2007,1,WAS,2,4,34,11
 korpijo01,2015,1,CBS,4,2,21,5
+korpijo01,2017,1,CBS,2,0,5,0
 koskimi01,2010,1,NYI,1,0,4,0
 kuempda01,2013,1,MIN,2,2,19,6
 kuempda01,2014,1,MIN,1,1,5,3
+kuempda01,2017,1,LAK,1,0,2,0
 labarja01,2005,1,LAK,2,0,5,0
 labarja01,2007,1,LAK,2,1,10,5
 labarja01,2008,1,LAK,0,3,7,6
@@ -430,6 +464,7 @@ labarja01,2014,1,AND,1,0,3,1
 lacked01,2013,1,VAN,3,3,25,4
 lacked01,2014,1,VAN,4,2,16,4
 lacked01,2016,1,CAR,1,0,3,1
+lagacma01,2017,1,VEG,0,1,3,1
 lalimpa01,2005,1,STL,0,2,5,3
 lalimpa01,2006,1,CHI,2,1,8,4
 lalimpa01,2007,1,CHI,3,0,9,2
@@ -451,6 +486,7 @@ lehnero01,2013,1,OTT,4,4,30,10
 lehnero01,2014,1,OTT,3,2,14,4
 lehnero01,2015,1,BUF,0,2,6,4
 lehnero01,2016,1,BUF,0,4,8,8
+lehnero01,2017,1,BUF,1,2,10,4
 lehtoka01,2005,1,ATL,5,0,20,3
 lehtoka01,2006,1,ATL,7,4,30,10
 lehtoka01,2007,1,ATL,4,3,18,5
@@ -463,6 +499,7 @@ lehtoka01,2013,1,DAL,3,4,31,8
 lehtoka01,2014,1,DAL,2,3,21,6
 lehtoka01,2015,1,DAL,1,0,3,1
 lehtoka01,2016,1,DAL,1,2,11,5
+lehtoka01,2017,1,DAL,2,2,12,5
 leighmi01,2008,1,CAR,1,1,5,3
 leighmi01,2009,1,CAR,1,0,3,0
 leighmi01,2009,2,PHI,1,0,2,0
@@ -473,6 +510,7 @@ lindban01,2012,1,TBL,0,1,2,1
 lindban01,2013,1,TBL,2,0,7,1
 lindban01,2014,1,DAL,1,0,8,2
 lindban01,2014,2,BUF,1,2,7,2
+lindgch01,2017,1,MTL,0,1,6,2
 lundqhe01,2005,1,NYR,4,3,37,9
 lundqhe01,2006,1,NYR,8,4,50,9
 lundqhe01,2007,1,NYR,6,7,42,13
@@ -485,6 +523,7 @@ lundqhe01,2013,1,NYR,3,3,23,8
 lundqhe01,2014,1,NYR,2,3,17,6
 lundqhe01,2015,1,NYR,3,2,14,4
 lundqhe01,2016,1,NYR,3,3,18,8
+lundqhe01,2017,1,NYR,2,4,22,9
 luongro01,2005,1,FLO,4,4,27,7
 luongro01,2006,1,VAN,5,3,31,10
 luongro01,2007,1,VAN,6,8,54,15
@@ -498,6 +537,8 @@ luongro01,2013,2,FLO,1,1,6,2
 luongro01,2014,1,FLO,7,8,75,21
 luongro01,2015,1,FLO,5,2,22,8
 luongro01,2016,1,FLO,3,4,22,7
+luongro01,2017,1,FLO,3,0,10,3
+lyonal01,2017,1,PHI,0,1,3,1
 macdojo01,2006,1,DET,0,1,7,3
 macdojo01,2006,2,BOS,0,1,3,2
 macdojo01,2008,1,NYI,3,3,15,6
@@ -511,6 +552,7 @@ marksja02,2012,1,FLO,2,0,7,1
 marksja02,2013,1,FLO,0,2,7,4
 marksja02,2015,1,VAN,2,1,12,3
 marksja02,2016,1,VAN,2,1,9,1
+marksja02,2017,1,VAN,0,4,19,8
 masonch02,2005,1,NAS,2,0,5,0
 masonch02,2006,1,NAS,4,2,20,6
 masonch02,2007,1,NAS,1,4,13,5
@@ -533,6 +575,7 @@ mcelhcu01,2013,1,CBS,1,1,5,1
 mcelhcu01,2014,1,CBS,2,1,10,4
 mcelhcu01,2015,1,CBS,0,1,3,2
 mcelhcu01,2016,1,CBS,2,0,5,1
+mcelhcu01,2017,1,TOR,1,0,2,0
 mclenja01,2005,1,FLO,0,1,4,2
 mclenja01,2006,1,CAL,0,1,11,4
 millery01,2005,1,BUF,3,2,17,5
@@ -548,19 +591,24 @@ millery01,2013,2,STL,1,0,2,0
 millery01,2014,1,VAN,2,0,5,0
 millery01,2015,1,VAN,3,3,24,7
 millery01,2016,1,VAN,2,1,10,2
+millery01,2017,1,AND,2,4,24,8
 montoal01,2010,1,NYI,0,2,9,3
 montoal01,2011,1,NYI,2,2,13,5
 montoal01,2013,1,WPG,0,2,11,5
 montoal01,2014,1,FLO,0,1,3,3
 montoal01,2015,1,FLO,2,1,11,4
 montoal01,2016,1,MTL,0,2,6,3
+montoal01,2017,2,EDM,1,0,3,1
 morrimi01,2005,1,EDM,5,2,24,6
 mrazepe01,2014,1,DET,2,2,18,6
 mrazepe01,2015,1,DET,2,3,15,5
 mrazepe01,2016,1,DET,6,0,30,4
+mrazepe01,2017,1,DET,1,0,7,3
+mrazepe01,2017,2,PHI,1,1,9,3
 munroad01,2005,1,CHI,0,1,4,2
 murrama02,2015,1,PIT,1,1,4,2
 murrama02,2016,1,PIT,2,2,9,3
+murrama02,2017,1,PIT,2,1,9,2
 nabokev01,2005,1,SJS,0,4,13,8
 nabokev01,2006,1,SJS,2,1,10,4
 nabokev01,2007,1,SJS,6,6,40,18
@@ -577,6 +625,7 @@ neuvimi01,2014,1,BUF,2,3,16,8
 neuvimi01,2014,2,NYI,0,1,2,1
 neuvimi01,2015,1,PHI,1,2,10,4
 neuvimi01,2016,1,PHI,2,0,6,0
+neuvimi01,2017,1,PHI,1,3,16,4
 niemian02,2009,1,CHI,6,2,32,6
 niemian02,2010,1,SJS,3,5,28,8
 niemian02,2011,1,SJS,8,4,40,9
@@ -584,6 +633,7 @@ niemian02,2012,1,SJS,8,4,33,9
 niemian02,2013,1,SJS,7,6,46,15
 niemian02,2014,1,SJS,3,4,35,8
 niemian02,2015,1,DAL,1,2,15,8
+niemian02,2017,3,MTL,0,3,9,4
 niittan01,2005,1,PHI,3,4,24,10
 niittan01,2006,1,PHI,1,4,23,6
 niittan01,2007,1,PHI,1,0,3,0
@@ -593,6 +643,7 @@ niittan01,2010,1,SJS,2,0,4,0
 nilssan01,2013,1,NYI,4,0,11,3
 nilssan01,2015,1,EDM,2,0,5,0
 nilssan01,2016,1,BUF,2,2,18,6
+nilssan01,2017,1,VAN,0,1,4,3
 noronmi01,2005,1,BUF,0,0,1,1
 norrefr01,2006,1,CBS,3,3,22,8
 norrefr01,2007,1,CBS,0,4,10,4
@@ -610,6 +661,7 @@ pavelon01,2012,1,WPG,2,3,21,6
 pavelon01,2013,1,WPG,7,4,43,14
 pavelon01,2014,1,WPG,4,5,31,12
 pavelon01,2015,1,WPG,2,1,11,3
+pavelon01,2017,1,NYR,1,1,5,2
 peterju01,2010,1,CAR,0,1,2,2
 peterju01,2011,1,CAR,0,2,6,3
 peterju01,2013,1,CAR,1,1,6,4
@@ -630,6 +682,7 @@ priceca01,2012,1,MTL,2,1,11,3
 priceca01,2013,1,MTL,1,2,7,2
 priceca01,2014,1,MTL,4,2,22,4
 priceca01,2016,1,MTL,3,0,11,3
+priceca01,2017,1,MTL,2,2,12,3
 prusema01,2005,1,CBS,1,0,8,1
 quickjo01,2008,1,LAK,4,1,14,4
 quickjo01,2009,1,LAK,8,6,51,17
@@ -640,9 +693,11 @@ quickjo01,2013,1,LAK,6,4,31,7
 quickjo01,2014,1,LAK,2,7,27,11
 quickjo01,2015,1,LAK,2,3,19,6
 quickjo01,2016,1,LAK,1,0,3,0
+quickjo01,2017,1,LAK,1,0,4,1
 raantan01,2013,1,CHI,0,3,15,7
 raantan01,2014,1,CHI,0,1,3,2
 raantan01,2016,1,NYR,0,1,2,1
+raantan01,2017,1,ARI,1,5,21,9
 ramoka01,2007,1,TBL,0,1,2,2
 ramoka01,2008,1,TBL,1,3,13,5
 ramoka01,2013,1,CAL,2,3,21,9
@@ -656,6 +711,7 @@ rasktu01,2013,1,BOS,3,5,33,9
 rasktu01,2014,1,BOS,3,9,49,12
 rasktu01,2015,1,BOS,2,2,14,2
 rasktu01,2016,1,BOS,1,3,24,6
+rasktu01,2017,1,BOS,2,1,11,4
 raycran01,2005,1,BOS,0,1,2,1
 raycran01,2006,1,TOR,3,6,32,13
 raycran01,2007,1,TOR,0,1,6,2
@@ -670,6 +726,7 @@ reimeja01,2014,1,TOR,2,1,8,2
 reimeja01,2015,1,TOR,3,4,28,7
 reimeja01,2015,2,SJS,1,0,3,0
 reimeja01,2016,1,FLO,2,2,14,4
+reimeja01,2017,1,FLO,0,3,14,5
 rinnepe01,2008,1,NAS,5,2,24,5
 rinnepe01,2009,1,NAS,6,3,45,11
 rinnepe01,2010,1,NAS,6,4,34,7
@@ -679,6 +736,8 @@ rinnepe01,2013,1,NAS,0,3,10,5
 rinnepe01,2014,1,NAS,4,4,25,7
 rinnepe01,2015,1,NAS,3,1,15,2
 rinnepe01,2016,1,NAS,2,3,15,4
+rinnepe01,2017,1,NAS,6,3,34,7
+rittida01,2017,1,CAL,0,2,6,4
 rolosdw01,2005,1,MIN,0,1,8,2
 rolosdw01,2005,2,EDM,1,3,12,7
 rolosdw01,2006,1,EDM,3,2,21,6
@@ -696,6 +755,7 @@ sanfocu01,2006,1,STL,0,2,6,5
 sanfocu01,2007,1,VAN,0,1,4,2
 sanfocu01,2011,1,CBS,2,3,15,5
 sarosju01,2016,1,NAS,0,1,2,2
+sarosju01,2017,1,NAS,0,4,14,7
 sauveph01,2005,1,CAL,1,0,3,0
 schaeno01,2005,1,SJS,1,0,4,1
 schneco01,2008,1,VAN,0,1,3,3
@@ -706,6 +766,7 @@ schneco01,2013,1,NJD,0,8,29,13
 schneco01,2014,1,NJD,3,4,18,6
 schneco01,2015,1,NJD,2,5,26,11
 schneco01,2016,1,NJD,2,2,11,3
+schneco01,2017,1,NJD,2,2,23,4
 scrivbe01,2011,1,TOR,1,1,5,2
 scrivbe01,2013,1,LAK,0,2,11,6
 scrivbe01,2013,2,EDM,1,0,4,0
@@ -723,16 +784,20 @@ smithmi02,2012,1,PHO,4,4,23,10
 smithmi02,2013,1,PHO,4,5,35,14
 smithmi02,2014,1,ARI,3,3,17,5
 smithmi02,2016,1,ARI,3,2,13,5
+smithmi02,2017,1,CAL,2,3,18,8
 sparkga01,2015,1,TOR,2,1,11,2
 staloal01,2013,1,SJS,3,1,13,1
 staloal01,2014,1,SJS,1,2,12,5
 staloal01,2015,1,SJS,0,2,6,3
+staloal01,2017,1,MIN,2,1,10,2
 stolaan01,2016,1,PHI,0,1,3,2
+subbama01,2017,1,VEG,3,0,13,0
 svedbni01,2014,1,BOS,1,1,9,1
 talboca01,2013,1,NYR,1,0,3,1
 talboca01,2014,1,NYR,2,2,11,5
 talboca01,2015,1,EDM,2,2,15,6
 talboca01,2016,1,EDM,4,5,27,11
+talboca01,2017,1,EDM,4,0,13,5
 tellqmi01,2005,1,TOR,1,1,5,2
 tellqmi01,2006,2,PHO,3,1,16,4
 tellqmi01,2007,1,PHO,0,2,16,4
@@ -784,8 +849,10 @@ varlasi01,2012,1,COL,1,1,6,2
 varlasi01,2013,1,COL,5,4,23,7
 varlasi01,2014,1,COL,6,3,33,10
 varlasi01,2015,1,COL,3,0,10,1
+varlasi01,2017,1,COL,2,0,6,1
 vasilan02,2015,1,TBL,2,0,8,1
 vasilan02,2016,1,TBL,1,2,15,3
+vasilan02,2017,1,TBL,5,1,16,1
 vokouto01,2005,1,NAS,4,3,20,8
 vokouto01,2006,1,NAS,2,3,17,7
 vokouto01,2007,1,FLO,5,6,41,11
@@ -804,6 +871,7 @@ wardca01,2013,1,CAR,0,3,8,3
 wardca01,2014,1,CAR,2,5,24,7
 wardca01,2015,1,CAR,2,5,28,8
 wardca01,2016,1,CAR,2,6,24,12
+wardca01,2017,1,CAR,1,0,5,1
 weekeke01,2005,1,NYR,3,1,13,6
 weekeke01,2006,1,NYR,0,1,3,1
 weekeke01,2008,1,NJD,2,0,6,2
